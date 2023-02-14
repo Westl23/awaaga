@@ -1,5 +1,8 @@
 # An interesting button
 
-we made a a sequence of flahing LEDs reset after it meets two conditions: 
+We made a a sequence of flahing LEDs reset after it meets two conditions: 
 the pin (labeled LED) becoming less than 9 and
-the button being pressed
+the button being pressed.
+
+Once the two conditions are met, the LED would then return to its beginning pin number (13) and continue its flashing sequence (until the two conditions are met again).
+
