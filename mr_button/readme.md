@@ -1,3 +1,5 @@
-# Title of your project
+# An interesting button
 
-Some text and pictures and such.
+we made a a sequence of flahing LEDs reset after it meets two conditions: 
+the pin (labeled LED) becoming less than 9 and
+the button being pressed
